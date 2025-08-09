@@ -1,2 +1,18 @@
-# Solar-Panel-Calculator
-The Solar Panel Calculator is an interactive console tool designed to help users estimate the cost, savings, and requirements for installing a solar power system in their home or business. It guides the user by inputting their household details, energy consumption, and budget to recommend the most suitable solar panels, inverters, and batteries.
+# Solar Panel Calculator
+A C++ console-based application developed by [Your Name], Yousaf Iqbal, and Hannan Khan.
+
+## Features
+- User profile management with secure captcha verification.
+- Stores profiles in `User_Profiles` and backups in `Backup_Profiles`.
+- Recommends solar panels, inverters, and batteries based on user inputs.
+- Calculates savings in rupees over years.
+- Provides tips for optimizing solar energy production.
+
+## Setup
+1. Clone the repository: `git clone https://github.com/your-username/SolarPanelCalculator.git`
+2. Compile the C++ code using a compiler (e.g., g++).
+3. Run the executable in a console environment.
+
+## Usage
+- Enter electricity bill and requirements to get solar setup recommendations.
+- Manage profiles via the console interface.
