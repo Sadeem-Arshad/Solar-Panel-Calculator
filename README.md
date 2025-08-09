@@ -1,5 +1,5 @@
 # Solar Panel Calculator
-A C++ console-based application developed by [Your Name], Yousaf Iqbal, and Hannan Khan.
+A C++ console-based application developed by Sadeem Arshad.
 
 ## Features
 - User profile management with secure captcha verification.
